@@ -17,7 +17,7 @@ function Card({ setIsYes }) {
 
             <h1 className='text-4xl font-bold mt-3 sm:mt-7'>Hello Love 💞</h1>
 
-            <h1 className='text-3xl font-bold text-green-500 mt-10 sm:mt-5'>________ will you be my Valentine?</h1>
+            <h1 className='text-3xl font-bold text-green-500 mt-10 sm:mt-5'>Will you be my Valentine?</h1>
 
             <div className='text-center'>
 
