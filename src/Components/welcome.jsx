@@ -9,7 +9,7 @@ function Welcome() {
                 <img src="https://media.tenor.com/W_4cIjlMTZsAAAAi/cc.gif" alt="" className='w-[20%] sm:w-[10%] rounded-lg transform scale-x-[-1]' />
             </h1>
             <h1 className='mt-4 text-xl '>I knew it 💝</h1>
-            <img src="https://media1.tenor.com/m/0Sh7u1lRsyEAAAAd/wedding-crasher-hro.gif" alt="" className='w-[80%] sm:w-[50%] rounded-lg block mx-auto mt-3' />
+            <img src="https://media1.tenor.com/m/Hj19SOdKUWAAAAAd/jayfer-kissing.gif" alt="" className='w-[70%] sm:w-[35%] rounded-lg block mx-auto mt-3' />
             <h1 className='mt-4 text-xl '>I love you 😚</h1>
         </div>
     )
